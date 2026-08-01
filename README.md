@@ -132,7 +132,7 @@ A working prototype of a web-based Document Management System (DMS) for the Mala
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MichaelAnthonyJimenez/document-management-system.git
    cd document-management-system
    ```
 
